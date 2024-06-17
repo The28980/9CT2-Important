@@ -6,7 +6,7 @@ import time # import the time module
 
 # create constant variables for the program
 gameOver = False # create a variable to control the game loop
-playerHealth = 100 # eate a variable to store the player's health
+playerHealth = 100 # create a variable to store the player's health
 playerAttack = 10 # create a variable to store the player's attack power
 
 #----------------------------------------- SET UP THE GAME BOARD -----------------------------------------
